@@ -8,7 +8,11 @@ namespace ConsoleApp1
         {
             string MyName = "Hyaku";
 
-            Console.WriteLine("MyName is" + MyName);
+            Console.WriteLine("My Name is " + MyName);
+
+            byte MyAge = 30;
+
+            Console.WriteLine("My Age is " + MyAge);
 
             Console.ReadKey();
         }
