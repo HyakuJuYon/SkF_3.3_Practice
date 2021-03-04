@@ -22,6 +22,10 @@ namespace ConsoleApp1
 
             Console.WriteLine("The size of my shoes is " + MyShoeSize);
 
+            Console.WriteLine("IntMin {0} ", int.MinValue);
+
+            Console.WriteLine("IntMax {0} ", int.MaxValue);
+
             Console.ReadKey();
         }
     }
