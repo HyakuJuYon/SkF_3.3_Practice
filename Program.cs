@@ -18,6 +18,10 @@ namespace ConsoleApp1
 
             Console.WriteLine("Do I have any pets?"+ DoIHavePets);
 
+            float MyShoeSize = 39;
+
+            Console.WriteLine("The size of my shoes is " + MyShoeSize);
+
             Console.ReadKey();
         }
     }
