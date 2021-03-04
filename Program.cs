@@ -14,6 +14,10 @@ namespace ConsoleApp1
 
             Console.WriteLine("My Age is " + MyAge);
 
+            bool DoIHavePets = true;
+
+            Console.WriteLine("Do I have any pets?"+ DoIHavePets);
+
             Console.ReadKey();
         }
     }
