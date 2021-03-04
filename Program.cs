@@ -16,7 +16,7 @@ namespace ConsoleApp1
 
             bool DoIHavePets = true;
 
-            Console.WriteLine("Do I have any pets?"+ DoIHavePets);
+            Console.WriteLine("Do I have any pets? "+ DoIHavePets);
 
             float MyShoeSize = 39;
 
